@@ -585,8 +585,6 @@ plt.show()
 # In[ ]:
 
 
-get_ipython().system('jupyter nbconvert --to script Environment.ipynb')
-
 
 # In[ ]:
 
