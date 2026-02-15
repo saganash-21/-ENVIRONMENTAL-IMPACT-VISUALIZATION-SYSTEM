@@ -25,4 +25,4 @@ This project utilizes the following Python libraries:
 * **[Plotly](https://plotly.com/python/)** *(Optional)*: For interactive plots and dashboards.
 * **[Jupyter Notebook](https://jupyter.org/)**: The interactive development environment.
 
-## 📂 Project Structure
+Access the Jupyter notebook file here --> (https://github.com/saganash-21/-ENVIRONMENTAL-IMPACT-VISUALIZATION-SYSTEM/blob/main/Environment.ipynb)
